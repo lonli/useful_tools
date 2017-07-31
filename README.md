@@ -11,3 +11,7 @@ make chinese file name readble
 ### channel.sh
 
 ssh channel. __change the settings__
+
+### run.sh
+
+run file, make it executable if need
