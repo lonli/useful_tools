@@ -15,3 +15,7 @@ ssh channel. __change the settings__
 ### run.sh
 
 run file, make it executable if need
+
+### srt_tool.py
+
+adjust srt file's time to match for video file 
